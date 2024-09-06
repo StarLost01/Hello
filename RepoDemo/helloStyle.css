@@ -1,0 +1,13 @@
+﻿h1 {
+    text-align: center;
+    color: deepskyblue;
+    font-size: 12rem;
+    
+}
+
+h1:hover {
+    color: mediumpurple;
+}
+body {
+    background-color: darkviolet;
+}
